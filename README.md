@@ -250,6 +250,9 @@ This tool is designed for:
 
 Feel free to submit issues, feature requests, or pull requests to improve this tool.
 
+Well, this tools is created by me to do some challenge on lab for workshop purpose so~ ya maybe will have some improve in the future? who know hehe
+
 ## License
+
 
 This project is open source and available under the MIT License.
